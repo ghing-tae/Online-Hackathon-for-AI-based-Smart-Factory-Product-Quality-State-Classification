@@ -1,9 +1,14 @@
-## Online-Hackathon-for-AI-based-Smart-Factory-Product-Quality-State-Classification
+# Online-Hackathon-for-AI-based-Smart-Factory-Product-Quality-State-Classification
 > 
+* 기간 : 2023.02.01 ~ 2023.03.26
+* 개요 : 스마트 공장 제품 품질 상태 분류 AI 온라인 해커톤
 * 팀명 : 가슴이 두근두근
 * 팀원 : 민초맛대흉근, 월요일은대흉근, itsming, 청국장, 킁킁이
+* 참여 및 역할 : 5명 팀에서 EDA 분석 및 분류 모델 정확도 예측
+* 기술 환경 : Python, PyTorch, Numpy, Pandas, Matplotlib
 * 코드 : EDA_catboost_stratify_kfold.ipynb
 * 데이터 : train.csv, test.csv, sample_submission.csv
+* 성과 : 최종 순위 7등
 ---
 ## EDA
 ![EDA_012](https://user-images.githubusercontent.com/52441719/229600711-7da3569b-45d3-4172-89f3-56eb332a748d.png)
