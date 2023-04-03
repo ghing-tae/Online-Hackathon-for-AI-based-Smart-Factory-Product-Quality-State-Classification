@@ -19,9 +19,9 @@
 1. 'Y_Class' 데이터 불균형 해결 : Borderline, Stratified k-fold
 2. 'LINE' 별로 heatmap을 그렸을 때 비슷한 'LINE' 존재 : 비슷한 'LINE'끼리 묶어 결측치 보간
 <div>
-  <img src="https://user-images.githubusercontent.com/52441719/229601132-f9a32cc8-cb98-4d64-b3b1-304027117e73.png" style="width:300px; height:300px;" style="float:left; margin-right:10px;">
-  <img src="https://user-images.githubusercontent.com/52441719/229601162-7bdc3e72-ad98-4557-bb90-8cb8cb8a8e88.png" style="width:300px; height:300px;" style="float:left; margin-right:10px;">
-  <img src="https://user-images.githubusercontent.com/52441719/229601167-fd91dadc-3c19-403d-8351-042684a199ed.png" style="width:300px; height:300px;" style="float:left; margin-right:10px;">
+  <img src="https://user-images.githubusercontent.com/52441719/229601132-f9a32cc8-cb98-4d64-b3b1-304027117e73.png" style="width:200px; height:200px;" style="float:left; margin-right:10px;">
+  <img src="https://user-images.githubusercontent.com/52441719/229601162-7bdc3e72-ad98-4557-bb90-8cb8cb8a8e88.png" style="width:200px; height:200px;" style="float:left; margin-right:10px;">
+  <img src="https://user-images.githubusercontent.com/52441719/229601167-fd91dadc-3c19-403d-8351-042684a199ed.png" style="width:200px; height:200px;" style="float:left; margin-right:10px;">
 </div>
 
 ---
