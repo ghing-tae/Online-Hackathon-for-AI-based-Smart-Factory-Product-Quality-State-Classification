@@ -24,6 +24,8 @@
   <img src="https://user-images.githubusercontent.com/52441719/229601167-fd91dadc-3c19-403d-8351-042684a199ed.png" style="width:200px; height:200px;" style="float:left; margin-right:10px;">
 </div>
 
+3. 많은 column에 비해 적은 데이터 : Overfitting 방지 k-fold 사용
+
 ---
 ## Data 전처리
 1. TRAIN 전체가 NAN 삭제 : 74개
@@ -39,8 +41,8 @@
 * RobustScaler : 이상치 제거 기능
 
 ## Regressor
-* CatBoostRegressor voting 3-Fold
+* CatBoostRegressor voting 3-Fold : 기본모델 1개와 최적화 모델 2개 voting
 
 ## Classification
 * BorderlineSMOTE : 데이터 불균형 해소
-* StratifiedKFold : 선택된 최종 모델은 가장 좋은 검증 점수를 가진 모델로 설정
+* StratifiedKFold : 클래스 불균형 해소, 선택된 최종 모델은 가장 좋은 검증 점수를 가진 모델로 설정
