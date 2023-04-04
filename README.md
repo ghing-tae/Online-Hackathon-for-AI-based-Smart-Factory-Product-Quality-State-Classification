@@ -6,7 +6,7 @@
 * 팀원 : 민초맛대흉근, 월요일은대흉근, itsming, 청국장, 킁킁이
 * 참여 및 역할 : 5명 팀에서 EDA 분석 및 분류 모델 정확도 예측
 * 기술 환경 : Python, PyTorch, Numpy, Pandas, Matplotlib
-* 코드 : EDA_catboost_stratify_kfold.ipynb
+* 코드 : EDA_catboost_stratify_kfold_111.ipynb
 * 데이터 : train.csv, test.csv, sample_submission.csv
 * 성과 : 최종 순위 7등 (온라인 해커톤 5등 후 오프라인 해커톤 참여)
 ---
