@@ -1,4 +1,4 @@
-# Online-Hackathon-for-AI-based-Smart-Factory-Product-Quality-State-Classification
+# Online-Offline-Hackathon-for-AI-based-Smart-Factory-Product-Quality-State-Classification
 > 
 * 기간 : 2023.02.01 ~ 2023.03.26
 * 개요 : 스마트 공장 제품 품질 상태 분류 AI 온라인 해커톤
