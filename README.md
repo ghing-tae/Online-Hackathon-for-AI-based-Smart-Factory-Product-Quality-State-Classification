@@ -1,7 +1,7 @@
 # Online-Offline-Hackathon-for-AI-based-Smart-Factory-Product-Quality-State-Classification
 > 
 * 기간 : 2023.02.01 ~ 2023.03.26
-* 개요 : 스마트 공장 제품 품질 상태 분류 AI 온라인 해커톤
+* 개요 : 스마트 공장 제품 품질 상태 분류 AI 온라인/오프라인 해커톤
 * 팀명 : 가슴이 두근두근
 * 팀원 : 민초맛대흉근, 월요일은대흉근, itsming, 청국장, 킁킁이
 * 참여 및 역할 : 5명 팀에서 EDA 분석 및 분류 모델 정확도 예측
